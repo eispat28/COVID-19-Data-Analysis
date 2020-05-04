@@ -6,4 +6,4 @@ COVID-19 dataset is a collection of the COVID-19 data maintained by Our World in
 It is updated daily and includes data on confirmed cases, deaths, and testing.
 source: https://github.com/owid/covid-19-data/tree/master/public/data/
 
-![alt text](https://raw.githubusercontent.com/eispat28/COVID-19-Data-Analysis/master/choropleth_map_interactive.html?raw=true)
+![alt text](https://raw.githubusercontent.com/eispat28/COVID-19-Data-Analysis/master/choropleth_map_interactive.html)
